@@ -1,0 +1,50 @@
+
+table{
+	border:1px dotted;
+	margin-left:32%;
+	
+}
+td{
+	
+	border:1px dotted;
+}
+
+ .scroll{
+	 resize: none;
+	 overflow-y:scroll;
+	 
+}
+
+td{
+	padding-right:30px;
+	padding:5px;
+	
+
+
+}
+.inp bike{
+		border-top: 2px solid gray;
+    border-left: 2px solid gray;
+}
+	
+
+.lab{
+	text-align: end;
+    border: 2px dotted #0000005c;
+}
+
+.inp{
+	border:2px dotted #0000005c;
+}
+
+input{
+	border-top: 3px solid gray;
+    border-left: 3px solid gray;
+}
+
+.none{
+	resize:none;
+	border-top: 2px solid gray;
+    border-left: 2px solid gray;
+}
+
